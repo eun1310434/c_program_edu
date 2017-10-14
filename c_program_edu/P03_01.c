@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//CommaOp.c
 int P03_01(void)
 {
 	int num1 = 1, num2 = 2;

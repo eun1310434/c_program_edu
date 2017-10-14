@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 
-//OperatorFive.c
 int P03_02(void)
 {
 	int num1 = 10;

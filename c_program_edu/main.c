@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	//P01_01(); //Hello
+	P01_01(); //Hello
 	
 	//P02_01(); //HelloComment
 	//P02_02(); //PrintfOne

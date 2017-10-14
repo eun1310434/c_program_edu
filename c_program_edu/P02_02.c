@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// PrintfOne.c
 int P02_02(void)
 {
 	printf("Hello Everybody\n");
