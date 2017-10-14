@@ -6,7 +6,7 @@ int P023_008(void)
 	char sex;
 	int age;
 
-	FILE * fp = fopen("friend.txt", "wt");
+	FILE * fp = fopen("friend.txt", "wt"); //해당 프로젝트 안에 생성됨.
 	int i;
 
 	for (i = 0; i<3; i++)
